@@ -1,0 +1,6 @@
+C:\Users\shaxz\OneDrive\Desktop\Projects\STM32 - Complete_Eval_Board_4_Emb_Dev\PIFilter.net(3): Unknown parameter
+V1 P001 0 V = 5 + 0.05*sin(2*pi*100k*time)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\shaxz\OneDrive\Desktop\Projects\STM32 - Complete_Eval_Board_4_Emb_Dev\PIFilter.net(5): Unknown parameter
+V2 N001 P001 V =0.01*white(1)
+             ^^^^^^^^^^^^^^^^

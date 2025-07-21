@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=I2C_SCL Pin=R39-2
+Removed Pin From Net: NetName=I2C_SDA Pin=R40-1
+Removed Pin From Net: NetName=I2C_SCL Pin=R43-1
+Removed Pin From Net: NetName=I2C_SDA Pin=R44-1
+Removed Member From Class: ClassName=MCU_Build Member=R39
+Removed Member From Class: ClassName=MCU_Build Member=R40
+Removed Member From Class: ClassName=MCU_Build Member=R43
+Removed Member From Class: ClassName=MCU_Build Member=R44
+Added Pin To Net: NetName=I2C_SCL Pin=IC1-1
+Added Pin To Net: NetName=I2C_SDA Pin=IC1-6
+Added Pin To Net: NetName=I2C_SCL Pin=R37-2
+Added Pin To Net: NetName=I2C_SDA Pin=R38-2
+Added Pin To Net: NetName=I2C_SCL Pin=R41-2
+Added Pin To Net: NetName=I2C_SDA Pin=R42-2
+Added Pin To Net: NetName=I2C_SDA Pin=U7-5
+Added Pin To Net: NetName=I2C_SCL Pin=U7-6

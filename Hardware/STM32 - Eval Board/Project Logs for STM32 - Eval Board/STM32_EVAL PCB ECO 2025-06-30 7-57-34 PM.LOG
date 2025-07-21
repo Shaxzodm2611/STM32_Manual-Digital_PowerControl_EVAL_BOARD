@@ -1,0 +1,7 @@
+Change Component Comment : Designator=R33 Old Comment=Comment New Comment=P120PK-Y25BR10K
+Change component parameters: Designator = "R33" ("R33"); Footprint = "POT_P120PK-x25_TTE"; UniqueID = "\UIBFECVY" ("\UIBFECVY")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "TT Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_PTC Pin=R33-1
+Added Pin To Net: NetName=ADC_POT_INPUT Pin=R33-2

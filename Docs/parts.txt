@@ -1,0 +1,4 @@
+https://www.digikey.ca/en/products/detail/microchip-technology/MCP4013T-502E-CH/1015523
+Digital potentiameter used for configuring buck supply
+    - Will use an actual potentimater as a knob, will go through ADC, then STM will write I2C to dig pot
+    - Need to figure out how to get a LCD into this set-up lol

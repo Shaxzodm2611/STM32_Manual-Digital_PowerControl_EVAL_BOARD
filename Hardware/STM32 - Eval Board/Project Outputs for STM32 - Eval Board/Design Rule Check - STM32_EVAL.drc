@@ -1,0 +1,47 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\shaxz\OneDrive\Desktop\Projects\STM32 - Complete_Eval_Board_4_Emb_Dev\STM32 - Eval Board\STM32_EVAL.PcbDoc
+Date     : 2025-06-30
+Time     : 8:35:17 PM
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=20mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=2000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (18723.346mil,1618.347mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (18723.346mil,1661.653mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (18766.654mil,1618.347mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (18766.654mil,1661.653mil) from Top Layer to Bottom Layer 
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+   Violation between Height Constraint: Small Component S1-ANT11SF1CQE (3890mil,3474.921mil) on Top Layer Actual Height = 1161.549mil
+Rule Violations :1
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:00
