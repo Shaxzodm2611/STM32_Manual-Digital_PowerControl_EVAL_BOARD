@@ -1,7 +1,6 @@
 # STM32 Motor Controller
 
-A custom PCB project that utlizies a stand-alone 32bit STM32 MCU (exact model can be found in BOM). The purpose of the project is to continue building upon my PCB and soldering skills aswell as
-help me learn embedded C development as well as the CubeIDE.
+A custom PCB project that utlizies a stand-alone 32bit STM32 MCU (exact model can be found in BOM). The purpose of the project is to continue building upon my PCB and soldering skills aswell as help me learn embedded C development as well as the CubeIDE.
 
  ## Features
 
@@ -9,6 +8,7 @@ help me learn embedded C development as well as the CubeIDE.
 - Digital/Rotrary Pot to test/enable a variable voltage output (frm buck set-up)
 - Temperature sensor as well as an EEPROM to get used to I2C drivers as well as writing/reading memory
 - 3 Shift registers corresponding with the seven-segs so that I can practice with STM32 timers/retimers
+- SPI GPIO to interact with the protocol
 
  ## REP Struct
 
